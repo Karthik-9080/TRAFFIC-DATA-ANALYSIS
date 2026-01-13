@@ -127,4 +127,4 @@ DevOps & Cloud Enthusiast
 Machine Learning Practitioner
 
 Final Note
-This project demonstrates a complete production-style workflow combining Machine Learning + DevOps + Cloud, built with simplicity, automation, and best practices in mind.
+This project demonstrates a complete production-style workflow combining Machine Learning + DevOps + Cloud, built with simplicity, automation, and best practices in mind. 
